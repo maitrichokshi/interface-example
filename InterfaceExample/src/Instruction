@@ -1,0 +1,3 @@
+// jar -- Java Archive - is a collection of class files related to the same module
+// war -- Web Archive - is a collection of files requried for the web application like class files, html, jsp, css,js, other files
+// ear -- Enterprise Archive - is a collection of war and jar
